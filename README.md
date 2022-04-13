@@ -1,7 +1,9 @@
 # ITCS-4230-001 Project 2
 
 Intergalactic Settlement Defense 
+
 Members : Brayden Long, Dale Hagen, Justin Patterson , Jordan Smiley
+
 Re:New Games Production
 
 Description : 
