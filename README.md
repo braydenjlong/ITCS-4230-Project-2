@@ -12,7 +12,7 @@ Hurry Traveler, there is space to explore! On behalf of the ISD, we have assigne
 
 Controls : 
 
-Drag and drop turrets, buildings and other means of defense onto the play area and see if your defense strategy will be enough to hold the enemies back! Left click to place your towers! Collect scrap from fallen enemies to create more defenses, Good luck!
+Drag and drop turrets, buildings and other means of defense onto the play area and see if your defense strategy will be enough to hold the enemies back! Left click to place your towers! Collect Tokens from fallen enemies to create more defenses to protect your main tower, Good luck Traveler!
 
 
 DISCLAIMER : THIS GAME IS NOT FOR REUSE OR FOR SCHOOL WORK, DO NOT COPY. WE ARE NOT RESPONISBLE AND DO NOT GIVE PERMISSION FOR RESUSE. THANK YOU
